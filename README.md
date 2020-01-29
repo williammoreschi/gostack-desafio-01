@@ -48,7 +48,7 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 ### Rodar Local
 
 ```sh
-# instalar as dependências necessarias para o app funcione
+# instalar as dependências necessarias para que o app funcione
 yarn install
 
 # Iniciar o servidor na porta 3333
